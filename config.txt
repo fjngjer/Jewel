@@ -1,0 +1,6 @@
+owner=252488488065302528
+prefix=Je
+game=Break | play
+stayinchannel=true
+songinstatus=false
+token=NTkxMTYyNTU2MDc3NDQxMDI0.XQsxEQ.3x8-hrsgCTPES56rdh3xcoq4GAQ
